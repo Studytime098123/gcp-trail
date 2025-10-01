@@ -17,6 +17,7 @@
 - [Screenshots](#screenshots)
 - [Contributing](#contributing)
 - [License](#license)
+- [testing](#testing)
 
 ---
 
